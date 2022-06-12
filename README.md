@@ -9,4 +9,4 @@ Device Register, TikTok Scrapper api also available
 - NodeJS
 - Python
 
-Contact Telegram https://t.me/ssovit
+Contact Telegram https://t.me/xajd0
